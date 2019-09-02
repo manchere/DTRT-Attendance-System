@@ -1,0 +1,97 @@
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\bin\Debug\System.exe.config
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\bin\Debug\System.exe
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\bin\Debug\System.pdb
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.Login.resources
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.Dashoboard.resources
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.Properties.Resources.resources
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.exe
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.pdb
+c:\users\ipmc\documents\visual studio 2012\Projects\System\System\obj\Debug\System.mainForm.resources
+D:\ALL\System\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+D:\ALL\System\System\obj\Debug\System.Login.resources
+D:\ALL\System\System\obj\Debug\System.Dashoboard.resources
+D:\ALL\System\System\obj\Debug\System.mainForm.resources
+D:\ALL\System\System\obj\Debug\System.MessageForm.resources
+D:\ALL\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+D:\ALL\System\System\bin\Debug\Fin_system.exe.config
+D:\ALL\System\System\obj\Debug\Fin_system.exe
+D:\ALL\System\System\obj\Debug\Fin_system.Properties.Resources.resources
+D:\ALL\System\System\bin\Debug\Fin_system.exe
+D:\ALL\System\System\bin\Debug\Fin_system.pdb
+D:\ALL\System\System\obj\Debug\Fin_system.pdb
+F:\ALL\System\System\bin\Debug\Fin_system.exe.config
+F:\ALL\System\System\bin\Debug\Fin_system.exe
+F:\ALL\System\System\bin\Debug\Fin_system.pdb
+F:\ALL\System\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+F:\ALL\System\System\obj\Debug\System.Login.resources
+F:\ALL\System\System\obj\Debug\System.Dashoboard.resources
+F:\ALL\System\System\obj\Debug\System.mainForm.resources
+F:\ALL\System\System\obj\Debug\System.MessageForm.resources
+F:\ALL\System\System\obj\Debug\Fin_system.Properties.Resources.resources
+F:\ALL\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+F:\ALL\System\System\obj\Debug\Fin_system.exe
+F:\ALL\System\System\obj\Debug\Fin_system.pdb
+D:\ALL\System\System\bin\Debug\MaterialSkin.dll
+F:\ALL\System\System\bin\Debug\MaterialSkin.dll
+G:\ALL\System\System\bin\Debug\Fin_system.exe.config
+G:\ALL\System\System\bin\Debug\Fin_system.exe
+G:\ALL\System\System\bin\Debug\Fin_system.pdb
+G:\ALL\System\System\bin\Debug\MaterialSkin.dll
+G:\ALL\System\System\bin\Debug\WinFormSkin.dll
+G:\ALL\System\System\obj\Debug\System.Login.resources
+G:\ALL\System\System\obj\Debug\System.Dashoboard.resources
+G:\ALL\System\System\obj\Debug\System.mainForm.resources
+G:\ALL\System\System\obj\Debug\System.MessageForm.resources
+G:\ALL\System\System\obj\Debug\Fin_system.Properties.Resources.resources
+G:\ALL\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+G:\ALL\System\System\obj\Debug\Fin_system.exe
+G:\ALL\System\System\obj\Debug\Fin_system.pdb
+D:\ALL\System\System\bin\Debug\WinFormSkin.dll
+C:\Users\Abeiku\Desktop\System\System\bin\Debug\Fin_system.exe.config
+C:\Users\Abeiku\Desktop\System\System\bin\Debug\Fin_system.exe
+C:\Users\Abeiku\Desktop\System\System\bin\Debug\Fin_system.pdb
+C:\Users\Abeiku\Desktop\System\System\bin\Debug\MaterialSkin.dll
+C:\Users\Abeiku\Desktop\System\System\bin\Debug\WinFormSkin.dll
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\System.Login.resources
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\System.Dashoboard.resources
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\System.mainForm.resources
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\System.MessageForm.resources
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\Fin_system.Properties.Resources.resources
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\Fin_system.exe
+C:\Users\Abeiku\Desktop\System\System\obj\Debug\Fin_system.pdb
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\bin\Debug\Fin_system.exe.config
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\bin\Debug\Fin_system.exe
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\bin\Debug\Fin_system.pdb
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\bin\Debug\MaterialSkin.dll
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\bin\Debug\WinFormSkin.dll
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\System.Login.resources
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\System.Dashoboard.resources
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\System.mainForm.resources
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\System.MessageForm.resources
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\Fin_system.Properties.Resources.resources
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\Fin_system.exe
+C:\Users\Abeiku\Desktop\System ALL WORKING\System\System\obj\Debug\Fin_system.pdb
+G:\System ALL WORKING\System\System\bin\Debug\Fin_system.exe.config
+G:\System ALL WORKING\System\System\obj\Debug\Fin_system.exe
+G:\System ALL WORKING\System\System\obj\Debug\Fin_system.pdb
+G:\System ALL WORKING\System\System\bin\Debug\Fin_system.exe
+G:\System ALL WORKING\System\System\bin\Debug\Fin_system.pdb
+G:\System ALL WORKING\System\System\bin\Debug\MaterialSkin.dll
+G:\System ALL WORKING\System\System\bin\Debug\WinFormSkin.dll
+G:\System ALL WORKING\System\System\obj\Debug\System.csprojResolveAssemblyReference.cache
+G:\System ALL WORKING\System\System\obj\Debug\System.Login.resources
+G:\System ALL WORKING\System\System\obj\Debug\System.Dashoboard.resources
+G:\System ALL WORKING\System\System\obj\Debug\System.mainForm.resources
+G:\System ALL WORKING\System\System\obj\Debug\Fin_system.Properties.Resources.resources
+G:\System ALL WORKING\System\System\obj\Debug\System.csproj.GenerateResource.Cache
+G:\System ALL WORKING\System\System\bin\Debug\Fin_system.exe.manifest
+G:\System ALL WORKING\System\System\bin\Debug\Fin_system.application
+G:\System ALL WORKING\System\System\obj\Debug\Fin_system.TrustInfo.xml
+G:\System ALL WORKING\System\System\obj\Debug\Fin_system.exe.manifest
+G:\System ALL WORKING\System\System\obj\Debug\Fin_system.application

@@ -1,0 +1,13 @@
+G:\ALL\System\System\obj\Debug\Att_System.csprojResolveAssemblyReference.cache
+G:\ALL\System\System\obj\Debug\System.Login.resources
+G:\ALL\System\System\obj\Debug\System.Dashoboard.resources
+G:\ALL\System\System\obj\Debug\System.mainForm.resources
+G:\ALL\System\System\obj\Debug\Att_System.csproj.GenerateResource.Cache
+G:\ALL\System\System\bin\Debug\Att_System.exe.config
+G:\ALL\System\System\bin\Debug\Att_System.exe
+G:\ALL\System\System\bin\Debug\Att_System.pdb
+G:\ALL\System\System\obj\Debug\Att_System.Properties.Resources.resources
+G:\ALL\System\System\obj\Debug\Att_System.exe
+G:\ALL\System\System\obj\Debug\Att_System.pdb
+D:\ALL\System\System\bin\Debug\Att_System.exe.config
+D:\ALL\System\System\obj\Debug\Att_System.exe
