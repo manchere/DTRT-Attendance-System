@@ -11,3 +11,11 @@ G:\ALL\System\System\obj\Debug\Att_System.exe
 G:\ALL\System\System\obj\Debug\Att_System.pdb
 D:\ALL\System\System\bin\Debug\Att_System.exe.config
 D:\ALL\System\System\obj\Debug\Att_System.exe
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\Att_System.csprojAssemblyReference.cache
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\System.Login.resources
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\System.Dashoboard.resources
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\System.mainForm.resources
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\Att_System.Properties.Resources.resources
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\Att_System.csproj.GenerateResource.cache
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\Att_System.csproj.CoreCompileInputs.cache
+C:\Users\Manu Cheremeh\Source\Repos\DTRT-Attendance-System\obj\Debug\Att_System.exe

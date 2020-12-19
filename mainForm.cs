@@ -27,6 +27,7 @@ namespace System
         //public string conInfo = "Data Source=DESKTOP-CA7ENAM;Initial Catalog=attendanceDB;User ID=sa;Password=2018";
         //string conInfo = "Data Source=(localdb)\\Projects;Initial Catalog=attendanceDB;Integrated Security=True";
         string conInfo = "Data Source=DTRT-SVR\\Projects;Initial Catalog=attendanceDB;Integrated Security=True";
+       
         public mainForm()
         {
             InitializeComponent();
@@ -38,41 +39,14 @@ namespace System
 
             //con = new SqlConnection(conInfo);
         }
-
-        private void btnCancel_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblusername_Click(object sender, EventArgs e)
-        {
-
-        }
-
+ 
         private void btnDelete_Click(object sender, EventArgs e)
         {
             con = new SqlConnection(conInfo);
             string sqlstate = "DELETE Employee WHERE Employee_ID = @empID";
             cmd = new SqlCommand(sqlstate, con);
             cmd.Parameters.AddWithValue("@empID", txtEmpID.Text.Trim());
-
-
-
+ 
             if (txtEmpID.Text != String.Empty)
             {
                 DialogResult result = MessageBox.Show("Are you sure you want to delete employee " + txtEmpID.Text + "?", "DELETING EMPLOYEE", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
@@ -105,40 +79,11 @@ namespace System
                             MessageBox.Show("Cannot delete employee " + txtAddEmployeeID.Text + " because employee is an admin.", "Deletion Denied", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
                     }
-                   
-                    
-                    
-
                 }
                 //if(|MessageBoxButtons.YesNo = ye)
             }
         }
-
-        private void lblmessage_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tabPage2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblAddPlayer_Click(object sender, EventArgs e)
-        {
-          
-        }
-
+ 
         private void btnRegister_Click(object sender, EventArgs e)
         {
             if (txtEmpID.Text == String.Empty)
@@ -381,7 +326,6 @@ namespace System
                     cmd.ExecuteNonQuery();
                     DisplayData("Select Employee_ID,UsernameA,AccessLV from Credentiality ", dataGridUser);
                     MessageBox.Show("New User added successfully!");
-
                 }
                 catch (SqlException ex)
                 {
@@ -434,18 +378,7 @@ namespace System
                 {
                     
                 }
-                //if(MessageBoxButtons.YesNo = ye)
             }
-        }
-
-        private void dataGridView3_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void rdBtnEmpID_CheckedChanged(object sender, EventArgs e)
-        {
-
         }
 
         DataTable dtView = new DataTable();
@@ -506,6 +439,7 @@ namespace System
             imgImage.Image = img1;
             cmbDept.Text = dataGridEmp.Rows[e.RowIndex].Cells[5].Value.ToString();
         }
+
         //Converting from byte to image
         public Image byteToImage(byte[] byteArrayIn)
         {
@@ -530,24 +464,14 @@ namespace System
             
         }
 
-        private void dataGridUser_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
         private void btnRefresh_Click(object sender, EventArgs e)
         {
             DisplayData("SELECT * FROM EMPLOYEE",dataGridEmp);
         }
 
-        private void picUploadImage_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void label13_Click(object sender, EventArgs e)
         {
-//Creating an openfildialog object to use the openfiledialog
+            //Creating an openfildialog object to use the openfiledialog
             OpenFileDialog opf = new OpenFileDialog();
 
             //specifying the format of the image that can be included
@@ -636,11 +560,6 @@ namespace System
             ExcApp.Quit();
             wkB = null;
             ExcApp = null;
-        }
-
-        private void btnGenerateDB_Click(object sender, EventArgs e)
-        {
-           
         }
     }
 }

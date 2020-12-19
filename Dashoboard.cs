@@ -247,11 +247,6 @@ namespace System
             }
         }
 
-        private void fullname_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void clearAll()
         {
             var tClear = new Timer();
@@ -268,8 +263,6 @@ namespace System
                 imgImage.Image = null;
                 tClear.Stop();
             };
-
-
         }
 
         private void Dashoboard_Load(object sender, EventArgs e)
